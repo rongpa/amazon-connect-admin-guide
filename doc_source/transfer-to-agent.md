@@ -66,5 +66,6 @@ In the following agent event data, the agent ID is **87654321\-4321\-4321\-4321\
             "Username": "agentUserName"
         },
         "Contacts": []
-},
+}
+}
 ```
